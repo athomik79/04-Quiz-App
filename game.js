@@ -78,7 +78,7 @@ choices.forEach(choice => {
 
     acceptingAnswers = false;
     var selectedChoice = e.target;
-    var selectedAnswer = selectedChoice.dataset["number"];
+    const selectedAnswer = selectedChoice.dataset["number"];
 
     var classToApply =
       selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
