@@ -16,4 +16,8 @@ Week 4 homework, Quiz App
 <img width="1020" alt="correct_answer" src="https://user-images.githubusercontent.com/55367871/76152554-c67e2600-608e-11ea-89ef-c6d7c0d69313.png">
 
 After all questions have been answered the user can save their score, play the game again or return to the home page
+<img width="1022" alt="save_score" src="https://user-images.githubusercontent.com/55367871/76152631-94b98f00-608f-11ea-8c94-dcb06fb11544.png">
+
+After saving their score the user will be shown the high scores, and given a link to return to the home page to begin again
+
 
