@@ -9,3 +9,6 @@ Week 4 homework, Quiz App
 <img width="1022" alt="quiz_app_game_html" src="https://user-images.githubusercontent.com/55367871/76152411-4a371300-608d-11ea-91d9-f03ae02e6265.png">
 
 ## On the game page the choices will show red for wrong answers or green for correct answer
+<img width="1022" alt="wrong_answer" src="https://user-images.githubusercontent.com/55367871/76152456-e5c88380-608d-11ea-8b45-39cf4a2f2fef.png">
+
+<img width="1440" alt="correct_answer" src="https://user-images.githubusercontent.com/55367871/76152458-ecef9180-608d-11ea-871a-1d83f4a45a2a.png">
