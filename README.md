@@ -1,5 +1,5 @@
-# 04-Quiz-App
-Week 4 homework, Quiz App
+# Quiz-App
+A Quiz App built with html, css and js
 
 
 ## Home page allows user to start quiz or see high scores
